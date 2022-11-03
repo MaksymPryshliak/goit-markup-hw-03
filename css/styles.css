@@ -67,7 +67,7 @@ ul {
 
 .navbar {
     display: flex;
-    padding-left: 93px;
+    margin-left: 93px;
 }
 
 .contacts{
@@ -86,7 +86,7 @@ ul {
 }
 
 .navbar_item {
-    padding-right: 50px;
+    margin-right: 50px;
 }
 
 .navbar_item a {
@@ -106,7 +106,7 @@ ul {
 } 
 
 .navbar_item:last-child {
-    padding-right: 0;
+    margin-right: 0;
 }
 
 .navbar_item .active_page{
