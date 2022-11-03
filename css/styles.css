@@ -215,7 +215,7 @@ ul {
     text-align: center;
     letter-spacing: 0.03em;
     color: var(--primary-color);
-    padding: 0 0 50px 0;
+    margin-bottom: 50px;
 }
 
 .project_list {
@@ -269,7 +269,7 @@ ul {
     text-align: center;
     letter-spacing: 0.03em;
     color: var(--primary-color);
-    padding-top: 30px;
+    margin-top: 30px;
     
 }
 
@@ -279,8 +279,8 @@ ul {
     text-align: center;
     letter-spacing: 0.03em;
     color: var(--secondary-color);
-    padding-top: 10px;
-    padding-bottom: 30px;
+    margin-top: 10px;
+    margin-bottom: 30px;
 }
 
 footer {
@@ -316,7 +316,7 @@ address a {
     line-height: 171%;
     letter-spacing: 0.03em;
     color: var(--light-color);
-    padding-top: 20px;
+    margin-top: 20px;
 }
 .footer-mail,
 .footer-tel {
@@ -325,7 +325,7 @@ address a {
     line-height: 171%;
     letter-spacing: 0.03em;
     color: rgba(255, 255, 255, 0.6);
-    padding-top: 9px;
+    margin-top: 9px;
 }
 
 .footer-mail:focus,
